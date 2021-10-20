@@ -10,6 +10,7 @@
 "           https://github.com/amix/vimrc
 "
 " Sections:
+"    -> Thiago`s modifications
 "    -> General
 "    -> VIM user interface
 "    -> Colors and Fonts
@@ -25,7 +26,13 @@
 "    -> Helper functions
 "
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" => Thiago`s modifications
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" Sets line numbers
+set number
+" Calculate line relative distance
+set relativenumber
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => General
