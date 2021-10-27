@@ -8,10 +8,10 @@
 ls -lasrt .
 echo "\n\n >>>>>>> END OF FILES LIST\n\n"
 echo "Using REGEX"
-echo "text_2-start"
+echo "texto_2-inicio"
 
-echo "text_3-start"
-echo "text_4-start"
-echo "text_5-start"
+echo "texto_3-inicio"
+echo "texto_4-inicio"
+echo "texto_5-inicio"
 
 # Substitution with regex by using: %s/text_\(\d\)-start/texto_\1-inicio
